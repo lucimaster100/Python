@@ -1,2 +1,2 @@
 # Python
-![Cerinta](Python/Screenshot_1.png)
+![Cerinta](Screenshot_1.png)
